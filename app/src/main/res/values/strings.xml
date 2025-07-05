@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">KienLDMBTVN</string>
+
+    <!--Style-->
+    <string name="style_prompt_entry">Enter your prompt</string>
+    <string name="style_choose">Choose your style</string>
+    <string name="style_generate">Generate AI</string>
+    <string name="style_generating_image_popup">Generating...</string>
+    <string name="result_download_photo">Download Photo</string>
+    <string name="result_downloading_popup">Downloading...</string>
+    <string name="no_internet">No internet connection! Try again later</string>
+    <string name="add_your_photo">Add your photo</string>
+    <string name="loading">Loading...</string>
+
+    <!--PhotoPicker-->
+    <string name="ask_for_permission">Permission required to access photos</string>
+    <string name="next">Next</string>
+    <string name="no_photos_found">No photos found</string>
+
+    <string name="network_error">No internet connection! Try again later</string>
+    <string name="internal_error">Internal error. Try again later</string>
+    <string name="unknown_error">Unknown error happen</string>
+    <string name="image_type_invalid">Image must be .jpg/.jpeg!</string>
+    <string name="generate_image_error">Error happen when generating image. Try again!</string>
+
+</resources>
